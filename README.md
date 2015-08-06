@@ -14,9 +14,8 @@ You need to use that
 - ControlP5 Library
 
 
-I M P O R T A N T 
-
+I M P O R T A N T - 
 This is work for SimpleOpenNI-0.27.zip If you already update SimpleOpenNI Library for Processing.
 
-http://barangulesen.com
-studiobrn.çorg
+http://barangulesen.com - 
+http://studiobrn.çorg
