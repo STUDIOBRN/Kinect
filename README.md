@@ -13,10 +13,12 @@ You need to use that
 - SimpleOpenNI-0.27.zip
 - ControlP5 Library
 
-You can Download all libraries with Processing 1.5 IDE with this link 
-http://barangulesen.com/softwares/processing.app.zip
+You can Download all libraries with Processing 1.5 IDE with this link - 
+http://barangulesen.com/softwares/Processing.app.zip
+
 OR 
-You can just download SimpleOpenNI-0.27 library  
+
+You can just download SimpleOpenNI-0.27 library -
 http://barangulesen.com/softwares/SimpleOpenNI-0.27.zip
 
 I M P O R T A N T - 
